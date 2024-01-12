@@ -1,0 +1,46 @@
+_repo: Elama-aatteiden-puolesta_72536
+_version: 0.0.1
+alternative_title: Memoiren einer Idealistin. Finnish
+contributor:
+  translator:
+    agent_name: Paalanen, Esteri
+    alias: Haapanen, Esteri
+    birthdate: 1886
+    deathdate: 1976
+    gutenberg_agent_id: '51485'
+    url: http://www.gutenberg.org/2009/agents/51485
+    wikipedia: https://fi.wikipedia.org/wiki/Esteri_Paalanen
+creator:
+  author:
+    agent_name: Meysenbug, Malwida von
+    aliases:
+    - Von Meysenbug, Malwida
+    - Meysenbug, Malvida von
+    birthdate: 1816
+    deathdate: 1903
+    gutenberg_agent_id: '56721'
+    url: http://www.gutenberg.org/2009/agents/56721
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Malwida_von_Meysenbug
+    - https://de.wikipedia.org/wiki/Malwida_von_Meysenbug
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72536'
+language: fi
+pgterms:marc905: 20231113124745meysenbug
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- !lcsh 'Meysenbug, Malwida von, 1816-1903'
+- !lcc 'PT'
+- GITenberg
+title: Elämä aatteiden puolesta
+url: http://www.gutenberg.org/ebooks/72536
